@@ -3,6 +3,7 @@ package ArrayPrograms;
 import java.util.Scanner;
 
 //wap to check whether an object is present in an Array
+//hii akanksha , your program needs more comments for clarity.
 public class ArrayContains 
 {
 	public static void main(String[] args)
